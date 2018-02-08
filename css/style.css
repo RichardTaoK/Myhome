@@ -46,7 +46,7 @@ label{
 }
 .banner {
     background: url(../images/banner.jpg) no-repeat 0px 0px;
-    background:-webkit-linear-gradient(top,#37BAFE, #0086fe);
+    background:-webkit-linear-gradient(top,#37BAFE, #4F8DFE);
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
